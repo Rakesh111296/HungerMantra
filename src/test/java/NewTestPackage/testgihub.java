@@ -1,10 +1,10 @@
 package NewTestPackage;
 
-public class Test {
+public class testgihub {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-System.out.println("from abhijith for conflict");
+
 	}
 
 }
