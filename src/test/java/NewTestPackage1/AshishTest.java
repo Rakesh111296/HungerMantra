@@ -11,7 +11,7 @@ public class AshishTest {
 		fm.a=1000;
 		System.out.println(fm.a);
 
-a=a*100;
+
 
 		System.out.println("Hi From Rakesh");
     
