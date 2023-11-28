@@ -2,7 +2,7 @@ package NewTestPackage1;
 
 public class AshishTest {
 	public static void main(String[] args) {
-		
+		int a=10;
 		System.out.println("hello");
 		
 		System.out.println("hiiiiiiiiii");
@@ -10,8 +10,8 @@ public class AshishTest {
 		ForMerge fm=new ForMerge();
 		fm.a=1000;
 		System.out.println(fm.a);
+		System.out.println((a*100));
 
-		int a= 10;
 
 		System.out.println("Hi From Rakesh");
     
