@@ -7,6 +7,7 @@ public class Merge2 {
 		System.out.println("merge 2");
 		
 		System.out.println("merge from master branch");
+		System.out.println("3rd merge");
 	}
 
 }
