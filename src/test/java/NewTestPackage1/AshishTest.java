@@ -2,7 +2,7 @@ package NewTestPackage1;
 
 public class AshishTest {
 	public static void main(String[] args) {
-		
+		int a=10;
 		System.out.println("hello");
 		
 		System.out.println("hiiiiiiiiii");
@@ -11,7 +11,7 @@ public class AshishTest {
 		fm.a=1000;
 		System.out.println(fm.a);
 
-
+a=a*100;
 
 		System.out.println("Hi From Rakesh");
     
