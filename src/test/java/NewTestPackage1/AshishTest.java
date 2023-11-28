@@ -11,7 +11,7 @@ public class AshishTest {
 		fm.a=1000;
 		System.out.println(fm.a);
 
-
+		int a= 10;
 
 		System.out.println("Hi From Rakesh");
     
