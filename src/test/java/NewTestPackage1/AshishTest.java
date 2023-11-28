@@ -10,11 +10,15 @@ public class AshishTest {
 		ForMerge fm=new ForMerge();
 		fm.a=1000;
 		System.out.println(fm.a);
-<<<<<<< HEAD
-		System.out.println("test push");
-=======
+
+
+
 		System.out.println("Hi From Rakesh");
->>>>>>> refs/heads/master
+    
+    System.out.println("conflict from abhijith");
+    System.out.println("test push");
+
 	}
+
 
 }
