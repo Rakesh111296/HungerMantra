@@ -10,7 +10,7 @@ public class AshishTest {
 		ForMerge fm=new ForMerge();
 		fm.a=1000;
 		System.out.println(fm.a);
-
+		System.out.println((a*100));
 
 
 		System.out.println("Hi From Rakesh");
