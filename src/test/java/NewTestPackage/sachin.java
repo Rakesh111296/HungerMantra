@@ -1,9 +1,9 @@
 package NewTestPackage;
 
-public class ashistest {
+public class sachin {
 
 	public static void main(String[] args) {
-		int a=10;
+		String name;
 	}
 
 }
