@@ -10,7 +10,11 @@ public class AshishTest {
 		ForMerge fm=new ForMerge();
 		fm.a=1000;
 		System.out.println(fm.a);
+
 		System.out.println("Hi From Rakesh");
+    
+    System.out.println("conflict from abhijith");
 	}
+
 
 }
